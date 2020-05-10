@@ -4,3 +4,4 @@ AAAA
 私はAと競合します。
 見れました。
 >>>>>>> parent of df4f933... Revert "Update A.txt"
+TEST
