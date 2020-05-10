@@ -1,2 +1,3 @@
 ﻿Cです。
 TEST
+TEST2
